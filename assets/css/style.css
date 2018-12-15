@@ -1,0 +1,45 @@
+body {
+    text-align: auto;
+    /*background-image: url("https://i.pinimg.com/originals/a0/18/3d/a0183de9cf987a534319a65fbcb0210a.jpg");*/
+    background-image: url("https://static.vecteezy.com/system/resources/previews/000/116/060/original/free-vector-blue-watercolor-background.jpg");
+    height: 100%;
+}
+
+h1 {
+   font-family: 'Nanum Gothic', sans-serif;
+   text-align: center;
+   color: purple;
+   font-size: 55px;
+
+}
+
+.jumbotron {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+
+.gifImages{
+    float: right;
+    margin-right: 30px;
+}
+
+.country-btn{
+    font-family: 'Nanum Gothic', sans-serif;
+    font-family: 'Merriweather', serif;
+    color: blueviolet;
+    background-color: aquamarine
+}
+
+#add-country{
+    font-family: 'Nanum Gothic', sans-serif;
+    font-family: 'Merriweather', serif;
+    font-family: 'Staatliches', cursive;
+    font-size: 20px;
+}
+label, p{
+    color: white;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-family: 'Merriweather', serif;
+    font-family: 'Staatliches', cursive;
+}
